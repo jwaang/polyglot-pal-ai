@@ -34,9 +34,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Screenshots
+![1](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/8b77d4d5-8954-4138-a3d4-28635a033680)
 
-![7ccb92a0e88a44a0b49b0a34311d37d3](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/35eee6cf-314c-4a1c-8403-0ba257916cfe)
+![2](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/8bffd9ad-4b61-433c-89d5-925b2eafd5c6)
 
-![ef8d993d68a45be20dd4bccb89966505](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/d22bf56a-11ca-4400-b707-bf2f44d43e9f)
-
-![Untitled](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/8e018dbd-1dc7-46db-a1f9-f8c6a5fb760f)
+![3](https://github.com/jwaang/polyglot-pal-ai/assets/8783957/958ea801-f011-4c17-ad81-1752cdeafd80)
